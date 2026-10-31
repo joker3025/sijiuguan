@@ -9,6 +9,10 @@
 
 > 仅限 18 岁以上用户用于虚构创作。
 
+> **⬇️ 下载**：[最新版 APK（点击直达下载）](https://github.com/joker3025/sijiuguan/releases/latest/download/sijiuguan.apk)
+> ｜ [版本发布页](https://github.com/joker3025/sijiuguan/releases/latest)
+> ｜ 要求 Android 8.0+，debug 签名，侧载安装
+
 ---
 
 ## 一、v1.7 更新（同人/小说原文改编 + 世界书结构校验）
