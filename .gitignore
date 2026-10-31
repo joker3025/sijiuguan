@@ -1,0 +1,39 @@
+# Android / Gradle build outputs
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local machine config (contains SDK path / paths)
+local.properties
+gradle.properties.local
+*.iml
+.idea/
+.cxx/
+.externalNativeBuild/
+captures/
+.navigation/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+*.log
+
+# Secrets (never commit)
+*.jks
+*.keystore
+keystore.properties
+*.p12
+*.pem
+*.env
+secrets.properties
+google-services.json
