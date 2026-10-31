@@ -1,5 +1,7 @@
 # 私酒馆（DSH Tavern）Android v1.9.5
 
+**简体中文** | [English](README.en.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B-green.svg)]()
 [![Language](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-blue.svg)]()
@@ -12,6 +14,14 @@
 > **⬇️ 下载**：[最新版 APK（点击直达下载）](https://github.com/joker3025/sijiuguan/releases/latest/download/sijiuguan.apk)
 > ｜ [版本发布页](https://github.com/joker3025/sijiuguan/releases/latest)
 > ｜ 要求 Android 8.0+，debug 签名，侧载安装
+
+---
+
+## 截图
+
+| 角色卡库 | 角色卡工坊 |
+| --- | --- |
+| ![角色卡库](docs/screenshot1.png) | ![角色卡工坊](docs/screenshot2.png) |
 
 ---
 
